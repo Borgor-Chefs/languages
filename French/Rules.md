@@ -45,4 +45,4 @@ Cet moyen mnémotechnique pour vous souvenir des verbes qui utilise "être" pour
 - Mourir -> être mort(es)
 - Partir -> être parti(es)
 
-Faites-attentions ici, c'est pour le "passé composé" pas les autres temps.
+Faites-attentions ici, c'est pour le "passé composé" pas les autres temps. Notons aussi que le plupart de ces verbes montent ou sont une forme de mouvement.
